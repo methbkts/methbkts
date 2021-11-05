@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Symfony Fullstack developer
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=methbkts&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true" alt="methbkts's github stats"></a>
+
+<a href="https://github.com/symfony/symfony"><img align="right" height="180" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" alt="Symfony logo"></a>
